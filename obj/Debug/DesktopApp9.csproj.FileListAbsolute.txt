@@ -1,0 +1,10 @@
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\bin\Debug\DesktopApp9.exe.config
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\bin\Debug\DesktopApp9.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\bin\Debug\DesktopApp9.pdb
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\obj\Debug\DesktopApp9.csprojAssemblyReference.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\obj\Debug\DesktopApp9.Form1.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\obj\Debug\DesktopApp9.Properties.Resources.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\obj\Debug\DesktopApp9.csproj.GenerateResource.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\obj\Debug\DesktopApp9.csproj.CoreCompileInputs.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\obj\Debug\DesktopApp9.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp9\DesktopApp9\obj\Debug\DesktopApp9.pdb
